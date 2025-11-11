@@ -18,5 +18,5 @@ int main(){
 	}printf("mang sau khi sap xep :");
 	for(int i=0;i<n;i++){
 		printf("%d ",a[i]);
-	}return 0;
+	}return 99;
 }
